@@ -1,3 +1,6 @@
+# This is a dependency parser that I've left up to show some of my first experiements with neural networks.
+I've since switched to the Keras framework, since I've found the documentaion much clearer.
+
 For usage instructions, and examples, run:
 
     python src/depModel.py --help
